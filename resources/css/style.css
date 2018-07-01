@@ -1,0 +1,55 @@
+body {
+  font-family: verdana sans-serif;
+  background-color: Black;
+  text-align: center;
+}
+
+h1 {
+  font-family: verdana sans-serif;
+  font-size: 50px;
+  color: White;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: verdana sans-serif;
+  font-size: 42px;
+  color: White;
+  font-weight: 300;
+}
+
+h3 {
+  font-family:  verdana sans-serif;
+  font-size: 21px;
+  color: Gray;
+}
+
+p {
+  <!-- this <p> tag is only here thus far to position the video and images on their own lines. -->
+}
+
+#download_link {
+  font-family: verdana sans-serif;
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+#waterfall_video {
+
+}
+
+#camp_image {
+  max-width: 75%;
+  height: 400px;
+}
+
+#phone_icon {
+
+}
+
+footer {
+  font-family: verdana sans-serif;
+  color: Gray;
+  font-size: 21px;
+  text-align: right;
+}
